@@ -4,7 +4,6 @@ import java.io.OutputStream;
 import java.util.Arrays;
 import java.util.List;
 
-import java.util.Scanner;
 public class ForeachLambdaTest {
   public static void main(String[] args) {
     List<String> aprovados = Arrays.asList("Ana", "Gui", "Bia", "Juh");

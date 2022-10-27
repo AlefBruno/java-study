@@ -2,7 +2,6 @@ package lambda;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
 import java.util.function.Consumer;
 
 public class ConsumerTest {
