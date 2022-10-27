@@ -16,7 +16,8 @@ public class ForeachLambdaTest {
     aprovados.forEach(nome -> meuImprimir(nome));
 
   }
-  static void meuImprimir(String nome){
+
+  static void meuImprimir(String nome) {
     System.out.println("Meu nome é : " + nome);
   }
 }
