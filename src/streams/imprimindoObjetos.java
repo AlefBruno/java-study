@@ -18,8 +18,7 @@ public class imprimindoObjetos {
         while(it.hasNext()){
             System.out.println(it.next());
         }
-
-        System.out.println(" Usando Stream ....");
+        System.out.println(" Usando Streams ....");
 
         Stream<String> st = aprovados.stream();
         st.forEach(System.out::println);
